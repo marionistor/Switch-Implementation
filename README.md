@@ -1,0 +1,1 @@
+Python-based Switch that learns MAC addresses, forwards VLAN-tagged frames, and runs STP for loop prevention. It maintains a forwarding table, processes trunk and access ports, and ensures efficient frame delivery while preventing network loops.
